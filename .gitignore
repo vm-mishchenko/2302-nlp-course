@@ -1,3 +1,5 @@
 venv
 .idea
 .ipynb_checkpoints
+src/week1/classification
+src/week1/lightning_logs
