@@ -5,3 +5,6 @@ General architecture:
 
 ![](img/architecture.png)
 
+Model quality depends on:
+
+![img.png](img/model-quality.png)
