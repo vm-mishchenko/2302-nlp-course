@@ -3,3 +3,4 @@ venv
 .ipynb_checkpoints
 src/week1/classification
 src/week1/lightning_logs
+src/week2/mit_ner
